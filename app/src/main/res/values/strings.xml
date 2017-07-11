@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentServiceDemo</string>
+    <string name="service_started">Service started</string>
+    <string name="download_done">Download done</string>
+    <string name="download_failed">Download failed</string>
+    <string name="allow_permission">Allow permission to save downloaded file!</string>
+</resources>
